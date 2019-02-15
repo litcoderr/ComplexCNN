@@ -7,6 +7,11 @@ When using complex numbers as a domain of a neural network (such as speech enhan
 [Phase-Aware Speech Enhancement with Deep Complex U-Net](https://openreview.net/forum?id=SkeRTsAcYm) is a great example. Use this as a building block of complex number targeted architecture.
 
 ## Usage
+### 0. Install Package
+```
+pip install complexcnn
+```
+
 ### 1. Preprocess Input
 ```python
 # Suppose X is a complex vector shape of [batch,channel,axis1,axis2]
