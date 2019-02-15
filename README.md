@@ -1,6 +1,8 @@
 # ComplexCNN
 pytorch implementation of complex convolutional neural network
-Reference: [https://arxiv.org/pdf/1705.09792.pdf](https://arxiv.org/pdf/1705.09792.pdf)
+Reference: [https://arxiv.org/pdf/1705.09792.pdf](https://arxiv.org/pdf/1705.09792.pdf) <br>
+
+![Drag Racing](./img/complexconv.png)
 
 ## For whom?
 When using complex numbers as a domain of a neural network (such as speech enhancement) deep complex networks can be very effective. <br>
