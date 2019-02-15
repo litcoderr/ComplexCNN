@@ -16,6 +16,7 @@ pip install complexcnn
 ```python
 # Suppose X is a complex vector shape of [batch,channel,axis1,axis2]
 X = np.stack((X.real,X.imag),axis=1) # shape: [batch,2,channel,axis1,axis2]
+X = torch.Tensor(X).to(device)
 ```
 
 ### 2. ComplexConv Module
