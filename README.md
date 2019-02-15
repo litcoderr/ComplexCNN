@@ -4,7 +4,7 @@ Reference: [https://arxiv.org/pdf/1705.09792.pdf](https://arxiv.org/pdf/1705.097
 
 ## For whom?
 When using complex numbers as a domain of a neural network (such as speech enhancement) deep complex networks can be very effective. <br>
-[Phase-Aware Speech Enhancement with Deep Complex U-Net](https://openreview.net/forum?id=SkeRTsAcY) is a great example. Use this as a building block of complex number targeted architecture.
+[Phase-Aware Speech Enhancement with Deep Complex U-Net](https://openreview.net/forum?id=SkeRTsAcYm) is a great example. Use this as a building block of complex number targeted architecture.
 
 ## Usage
 ### 1. Preprocess Input
