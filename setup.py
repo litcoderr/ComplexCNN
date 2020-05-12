@@ -13,7 +13,7 @@ setup(
   download_url = 'https://github.com/litcoderr/ComplexCNN/archive/v_0.1.tar.gz',    # I explain this later on
   keywords = ['deeplearning', 'pytorch', 'machinelearning'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
-          'pytorch',
+          'torch',
           'numpy',
       ],
   classifiers=[
